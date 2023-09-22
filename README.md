@@ -48,3 +48,4 @@ To connect your Next.js frontend to the Flask backend and utilize an event strea
 
 That's it! You now have a Flask backend and a Next.js frontend running concurrently, implementing a basic SSE.
 
+[event-stream-demo.webm](https://github.com/abhikrishnaram/event-stream/assets/66553902/a9f45bcc-e0e9-4c73-a1d5-d7277538f54f)
